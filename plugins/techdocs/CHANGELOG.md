@@ -1,5 +1,11 @@
 # @backstage/plugin-techdocs
 
+## 0.10.1
+
+### Patch Changes
+
+- e35b13afa: Handle error responses in `getTechDocsMetadata` and `getEntityMetadata` such that `<TechDocsPageHeader>` doesn't throw errors.
+
 ## 0.10.0
 
 ### Minor Changes
